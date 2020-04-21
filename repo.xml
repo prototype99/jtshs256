@@ -4,11 +4,11 @@
     <repo quality="experimental" status="unofficial">
 <name>jtshs256</name>
 <description>jtshs256's gentoo overlay</description>
-<homepage>http://github.com/jtshs256/overlay</homepage>
+<homepage>http://github.com/prototype99/jtshs256</homepage>
 <owner type="project">
 <email>jtshs256@gmail.com</email>
 <name>jtshs256</name>
 </owner>
-<source type="git">git://github.com/jtshs256/overlay.git</source>
+<source type="git">git://github.com/prototype99/jtshs256.git</source>
     </repo>
 </repositories>
